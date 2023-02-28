@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * rev_strng - Reverses a string
+ * rev_string - Reverses a string
  * @s: Input string
  * Return: String in reverse
  */
 
-voidrev_string(var * s)
+void rev_string(char *s)
 {
 	char rev = s[0];
 	int counter = 0;
