@@ -3,7 +3,7 @@
 /**
  * rev_strng - Reverses a string
  * @s: Input string
- * Return String in reverse
+ * Return: String in reverse
  */
 
 voidrev_string(var * s)
